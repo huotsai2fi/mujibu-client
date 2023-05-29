@@ -13,3 +13,10 @@ export enum CardWidth {
   /** @description 一般(首頁一般專案、首頁長期販售、探索頁) */
   Normal = '351px',
 }
+
+export enum ProposalCardImageSize {
+  /** @description 照片兩倍大 */
+  Large = 'large',
+  /** @description 照片一般大小 */
+  Normal = 'normal',
+}
