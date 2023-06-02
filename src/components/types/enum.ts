@@ -14,9 +14,8 @@ export enum CardWidth {
   Normal = '351px',
 }
 
-export enum ProposalCardImageSize {
-  /** @description 照片兩倍大 */
+export enum ProposalCardSize {
   Large = 'large',
-  /** @description 照片一般大小 */
-  Normal = 'normal',
+  Medium = 'medium',
+  Small = 'small',
 }
